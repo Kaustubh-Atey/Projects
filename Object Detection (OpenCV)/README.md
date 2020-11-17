@@ -4,6 +4,7 @@ To detect, count and localize the moving ants in the given video.
 <p align="left">
   <img src="https://github.com/Kaustubh-Atey/Projects/blob/master/Object%20Detection%20(OpenCV)/Images/Pipeline.png" width="1000" alt="accessibility text">
 </p>
+The input video is stored as **Ant Video.mp4** and the results are stored as **Results.mp4**. <br>
 
 ## STEP 1 <br>
 Convert the **input RGB frames into Grayscale.**
