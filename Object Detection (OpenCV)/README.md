@@ -48,5 +48,5 @@ Calculating and Displaying the **distance of each ant from the center of the fra
 Displaying the **number of ants.** <br>
 
 <p align="left">
-  <img src="https://github.com/Kaustubh-Atey/Projects/blob/master/Object%20Detection%20(OpenCV)/Images/Final%20Result.png" width="500" alt="accessibility text">
+  <img src="https://github.com/Kaustubh-Atey/Projects/blob/master/Object%20Detection%20(OpenCV)/Images/Final%20Result.png" width="1000" alt="accessibility text">
 </p>
